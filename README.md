@@ -1,4 +1,4 @@
-### Description
+## Description
 This is a Chrome extension takes Sarah Fox's [mouse sparkle code pen](https://codepen.io/sarahwfox/pen/pNrYGb) and replaces the 'sparkles' with images (currently my face).
 
 ## Customization
