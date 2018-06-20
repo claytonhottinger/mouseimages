@@ -1,0 +1,15 @@
+{
+  "name": "Mouse Faces",
+  "version": "0.1",
+  "description": "Make faces fall from your mouse!",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["sparkles.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    "clayton.png"
+  ],
+  "manifest_version": 2
+}
