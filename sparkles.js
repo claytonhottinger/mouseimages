@@ -1,5 +1,5 @@
 // copied/adapted from https://codepen.io/sarahwfox/pen/pNrYGb
-var imgUrl = chrome.extension.getURL('clayton.png');
+var imgUrl = chrome.extension.getURL('image.png');
 var backgroundUrl = "url('" + imgUrl + "')";
 
 var sparkles=100;// increase of decrease for number of sparkles falling
